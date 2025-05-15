@@ -63,7 +63,11 @@ The system includes two primary user roles:
 ---
 
 ## 📐 UML Class Diagram  
-[View UML Document](https://docs.google.com/document/d/1YRnffd2H4OcRiWFIKCwwmbQBHH_ZSGbHAIadIAoB1PE/edit?usp=sharing)
+<summary><strong>Click to expand</strong></summary>
+![UML Diagram 1]<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/UML0.jpg" />
+![UML Diagram 2]<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/UML1.jpg" />
+![UML Diagram 3]<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/UML2.jpg" />
+
 
 ---
 
