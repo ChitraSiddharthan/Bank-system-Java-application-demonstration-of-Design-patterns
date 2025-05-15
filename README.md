@@ -37,19 +37,19 @@ The system includes two primary user roles:
   <summary><strong>Click to expand</strong></summary>
 
 ### 🏠 Main Window  
-<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/FullGUI/ScreenShots/MainWindow.png" />
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/MainWindow.png" />
 
 ### 🧭 Home Window  
-<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/last_branch_/ScreenShots/HomeWindow.png" />
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/HomeWindow.png" />
 
 ### 💸 Money Transfer Window  
 <img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/TransferMoneyWindow.png" />
 
 ### 💱 Currency Converter  
-<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/FullGUI/ScreenShots/currrencyConverterAPI.png" />
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/currrencyConverterAPI.png" />
 
 ### 📝 Open Account Window  
-<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/FullGUI/ScreenShots/openAccountWindow.png" />
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/openAccountWindow.png" />
 
 </details>
 
