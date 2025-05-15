@@ -1,152 +1,71 @@
-# Project Idea: Bank System
-# Project Demo
 
+# 💡 Project: Bank System
 
-https://user-images.githubusercontent.com/73083810/170283193-42cefd0f-d987-4a94-82e0-b3b18d88d077.mp4
+## 🎥 Demo  
+[Watch the demo video](https://user-images.githubusercontent.com/73083810/170283193-42cefd0f-d987-4a94-82e0-b3b18d88d077.mp4)
 
+---
 
-# Description
-<p>
- Complete Banking system enables bank users to access their accounts and general information 
-about bank’s products and services from the comfort of your PC. This application aims at secure 
-banking system which will be accessible to any authenticated user with valid user id and password. 
-Through this system, user can access his account from anywhere.
-</p>
-<h2>The system has two types of users client and admin</h2>
-<h3>Client functionalities:</h3>
-<ol>
- <li>can regesister on the system using open account.</li>
- <li>can transfer money to any other bank account.</li>
- <li>withdraw / deposit.</li>
- <li>track his account transactions.</li>
- <li>apply for loan.</li>
-</ol>
-<h3>Staff functionalities:</h3>
-<ol>
- <li>manages loan requests.</li>
- <li>view all bank accounts with the over all control.</li>
-</ol>
-<h1>Design patterns used:</h1>
-<ul>
- <li>Factory pattern</li>
- <li>Singleton pattern</li>
- <li>Observer pattern</li>
-</ul>
-<!-- <details>
- <h1> <summary >ScreenShots</summary></h1>
-<p>
-<img src="https://github.com/salahashraf253/BankSystem/blob/main/ScreenShots/MainWindow.png" >
-</p>
-</details> -->
-<!-- # Project Idea: Bank System
-# Description
-<p>
- Complete Banking system enables bank users to access their accounts and general information 
-about bank’s products and services from the comfort of your PC. This application aims at secure 
-banking system which will be accessible to any authenticated user with valid user id and password. 
-Through this system, user can access his account from anywhere.
-</p> -->
-<h2>The system has two types of users client and admin</h2>
-<h3>Client functionalities:</h3>
-<ol>
- <li>can regesister on the system using open account.</li>
- <li>can transfer money to any other bank account.</li>
- <li>withdraw / deposit.</li>
- <li>track his account transactions.</li>
- <li>apply for loan.</li>
-</ol>
-<h3>Staff functionalities:</h3>
-<ol>
- <li>manages loan requests.</li>
- <li>view all bank accounts with the over all control.</li>
-</ol>
-<h1>Design patterns used:</h1>
-<ul>
- <li>Factory pattern</li>
- <li>Singleton pattern</li>
- <li>Observer pattern</li>
-</ul>
-<!-- <details>
- <h1> <summary >ScreenShots</summary></h1>
-<p>
-<img src="https://github.com/salahashraf253/BankSystem/blob/main/ScreenShots/MainWindow.png" >
-</p>
-</details> -->
+## 📄 Description  
+This is a comprehensive and secure desktop banking application that enables users to access their accounts and bank-related services conveniently from their personal computers. The system is built with a strong focus on security, usability, and software design best practices.
+
+### 👥 User Roles  
+The system includes two primary user roles:
+
+#### 1. **Client**
+- ✅ Register/open a new bank account  
+- 💸 Transfer money to other accounts  
+- 💰 Deposit and withdraw funds  
+- 📊 View transaction history  
+- 📝 Apply for loans  
+
+#### 2. **Admin/Staff**
+- 🔍 Manage and review loan requests  
+- 🧾 View and control all user accounts  
+
+---
+
+## 🧠 Design Patterns Implemented
+- 🏭 **Factory Pattern** – for creating objects without specifying exact classes  
+- 👤 **Singleton Pattern** – to ensure a single instance of key system components  
+- 👁️ **Observer Pattern** – to monitor and update account data and UI consistently  
+
+---
+
+## 🖼️ Screenshots  
 <details>
- <summary><h1>ScreenShots</h1></summary>
+  <summary><strong>Click to expand</strong></summary>
 
-## Main window
-<img src="https://github.com/salahashraf253/BankSystem/blob/FullGUI/ScreenShots/MainWindow.png">
+### 🏠 Main Window  
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/FullGUI/ScreenShots/MainWindow.png" />
 
-## Home Window
-<img src="https://github.com/salahashraf253/BankSystem/blob/last_branch_/ScreenShots/HomeWindow.png">
+### 🧭 Home Window  
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/last_branch_/ScreenShots/HomeWindow.png" />
 
-## Money Transfer Window
-<img src="https://github.com/salahashraf253/BankSystem/blob/main/ScreenShots/TransferMoneyWindow.png">
+### 💸 Money Transfer Window  
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/main/ScreenShots/TransferMoneyWindow.png" />
 
-## Currency Converter window
-<img src="https://github.com/salahashraf253/BankSystem/blob/FullGUI/ScreenShots/currrencyConverterAPI.png">
+### 💱 Currency Converter  
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/FullGUI/ScreenShots/currrencyConverterAPI.png" />
 
-## Open Account window
-<img src="https://github.com/salahashraf253/BankSystem/blob/FullGUI/ScreenShots/openAccountWindow.png">
- </details>
-<h1>Technologies used:</h1>
-<ul>
- <li>Frontend: <a href="https://openjfx.io/" > JavaFX</a></li>
- <li>Backend: <a href="https://www.java.com/en/" > Java </a> </li>
- <li>DataBase: <a href="https://www.mysql.com/" > MySql </a> </li>
- </ul>
- <h1>UML Class Diagram </h1>
-<p> <a href="https://docs.google.com/document/d/1YRnffd2H4OcRiWFIKCwwmbQBHH_ZSGbHAIadIAoB1PE/edit?usp=sharing" >Document link </a> </p>
-<h1>Contributors</h1>
-<!--
-<ul>
- <li><a href="https://github.com/AhmdSobhy">Ahmed Sobhy</a></li>
-   <li><a href="https://github.com/\RawanGamalElDin12">Rawan Gamal ElDin</a></li>
- <li><a href="https://github.com/Salmaishak">Salma Ishak</a></li>
-  <li><a href="https://github.com/salahashraf253">Salah Ashraf </a></li>
-  <li><a href="https://github.com/Mahmoudelim">Mahmoud Selim</a></li>
-  <li><a href="https://github.com/Nancyy20">Nancy Ahmed</a></li>
-</ul>
--->
-<table>
-  <tbody>
-    <tr>
-          <td align="center" valign="middle" width="128">
-        <a href="https://github.com/salahashraf253">
-          <img src="https://github.com/salahashraf253.png?size=128" />
-          Salah Ashraf
-        </a><br>
-      </td>
-      <td align="center" valign="middle" width="128">
-        <a href="https://github.com/AhmdSobhy">
-          <img src="https://github.com/AhmdSobhy.png?size=128" />
-          Ahmed Sobhy
-        </a><br>
-      </td>
-      <td align="center" valign="middle" width="128">
-        <a href="https://github.com/RawanGamalElDin12">
-          <img src="https://github.com/RawanGamalElDin12.png?size=128" />
-          Rawan Gamal ElDin
-        </a><br>
-      </td>
-      <td align="center" valign="middle" width="128">
-        <a href="https://github.com/Salmaishak">
-          <img src="https://github.com/Salmaishak.png" />
-          Salma Ishak
-        </a><br>
-      </td>
-      <td align="center" valign="middle" width="128">
-        <a href="https://github.com/Mahmoudelim">
-          <img src="https://github.com/Mahmoudelim.png" />
-          Mahmoud Selim
-        </a><br>
-      </td>
-      <td align="center" valign="middle" width="128">
-        <a href="https://github.com/Nancyy20">
-          <img src="https://github.com/Nancyy20.png" />
-          Nancy Ahmed
-        </a><br>
-      </td></tr>
-  </tbody>
-</table>
+### 📝 Open Account Window  
+<img src="https://github.com/ChitraSiddharthan/Bank-system-Java-application-demonstration-of-Design-patterns/blob/FullGUI/ScreenShots/openAccountWindow.png" />
+
+</details>
+
+---
+
+## 🛠️ Technologies Used
+- **Frontend:** [JavaFX](https://openjfx.io/)  
+- **Backend:** [Java](https://www.java.com/)  
+- **Database:** [MySQL](https://www.mysql.com/)  
+
+---
+
+## 📐 UML Class Diagram  
+[View UML Document](https://docs.google.com/document/d/1YRnffd2H4OcRiWFIKCwwmbQBHH_ZSGbHAIadIAoB1PE/edit?usp=sharing)
+
+---
+
+---
+
